@@ -8,6 +8,6 @@ public class Radius {
         double area = 3.14 * r * r;
 
         System.out.println(area);
-		
+		sc.close();
 	}
 }
